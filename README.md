@@ -1,4 +1,4 @@
-## I'm Jan Molenaar, a student at Codam Coding College in Amsterdam, which is part of the 42 network.
+## I'm Jan, a student at Codam Coding College in Amsterdam, which is part of the 42 network.
 
 
 ### Currently I am following the core curriculum which involves coding in C and C++.
