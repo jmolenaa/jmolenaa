@@ -5,3 +5,7 @@
 
 
 #### All the projects I finish during this course are available in repositories on this [page](https://github.com/jmolenaa/jmolenaa_Codam).
+
+#### Advent of code - a coding challenge spread over 25 days with a new puzzle every day
+### [2022](https://github.com/jmolenaa/AOC_2022) - problems solved in C.
+### [2023](https://github.com/jmolenaa/AOC_2023) - problems solved in python.
