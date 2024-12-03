@@ -9,3 +9,4 @@
 #### Advent of code - a coding challenge spread over 25 days with a new puzzle every day
 [2022](https://github.com/jmolenaa/AOC2022) - problems solved in C.<br>
 [2023](https://github.com/jmolenaa/AOC2023) - problems solved in python.
+[2024](https://github.com/jmolenaa/AOC2024) - Work in progress. Problems solved in python.
